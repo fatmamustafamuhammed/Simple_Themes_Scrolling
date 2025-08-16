@@ -1,0 +1,16 @@
+body {
+    height: 1500px;
+}
+
+.btn {
+    position: fixed;
+    bottom: 10px;
+    left: 95%;
+    background: lightcoral;
+    width: 3%;
+    height: 30px;
+    border-radius: 5px;
+    border: 2px solid black;
+    display: none;
+    cursor: pointer;
+}
